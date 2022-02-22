@@ -15,10 +15,7 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
-    public enum genres{
-        Comedy,Drama
-    }
-    
+   
     
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
